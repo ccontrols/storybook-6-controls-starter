@@ -1,0 +1,20 @@
+{
+  "name": "storybook-6-controls-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "start-storybook -c .storybook",
+    "build": "build-storybook -c .storybook"
+  },
+  "dependencies": {
+    "@component-controls/storybook": "^1.12.0",
+    "@storybook/react": "^6.0.0-rc.19",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atanasster/storybook-6-controls-starter.git"
+  }
+}
