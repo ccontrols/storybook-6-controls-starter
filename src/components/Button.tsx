@@ -1,6 +1,6 @@
 import React, { FC } from 'react';
 
-interface ButtonProps {
+export interface ButtonProps {
   /**
    *  Boolean indicating whether the button should render as disabled
    */
