@@ -8,7 +8,7 @@
     "build": "build-storybook -c .storybook"
   },
   "dependencies": {
-    "@component-controls/storybook": "^1.19.0",
+    "@component-controls/storybook": "^1.19.3",
     "@storybook/react": "^6.0.0-rc.19",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
