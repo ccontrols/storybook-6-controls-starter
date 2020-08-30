@@ -8,12 +8,12 @@
     "build": "build-storybook -c .storybook"
   },
   "dependencies": {
-    "@component-controls/axe-plugin": "^1.24.2",
-    "@component-controls/blocks": "^1.24.2",
+    "@component-controls/axe-plugin": "^1.24.3",
+    "@component-controls/blocks": "^1.24.3",
     "@component-controls/core": "^1.22.0",
-    "@component-controls/store": "^1.24.2",
-    "@component-controls/storybook": "^1.24.2",
-    "@component-controls/viewport-plugin": "^1.24.2",
+    "@component-controls/store": "^1.24.3",
+    "@component-controls/storybook": "^1.24.3",
+    "@component-controls/viewport-plugin": "^1.24.3",
     "@storybook/react": "^6.0.0-rc.19",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
