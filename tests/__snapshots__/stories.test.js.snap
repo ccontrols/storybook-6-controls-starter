@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ES Story Overview 1`] = `
+<DocumentFragment>
+  <button
+    style="background-color: rgb(254, 254, 254); color: black; padding: 5px;"
+    type="button"
+  >
+    click me
+  </button>
+</DocumentFragment>
+`;
+
+exports[`First Story Simple 1`] = `
+<DocumentFragment>
+  <button
+    style="background-color: rgb(254, 254, 254); color: black; padding: 5px;"
+    type="button"
+  >
+    click me
+  </button>
+</DocumentFragment>
+`;
