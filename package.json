@@ -9,21 +9,16 @@
     "test": "cc-jest -c .storybook"
   },
   "dependencies": {
-    "@component-controls/axe-plugin": "^1.24.7",
-    "@component-controls/blocks": "^1.24.7",
-    "@component-controls/core": "^1.24.6",
-    "@component-controls/jest-snapshots": "^1.24.7",
-    "@component-controls/store": "^1.24.7",
-    "@component-controls/storybook": "^1.24.7",
-    "@component-controls/viewport-plugin": "^1.24.7",
+    "@component-controls/axe-plugin": "^1.25.0",
+    "@component-controls/blocks": "^1.25.0",
+    "@component-controls/core": "^1.25.0",
+    "@component-controls/jest-snapshots": "^1.25.0",
+    "@component-controls/store": "^1.25.0",
+    "@component-controls/storybook": "^1.25.0",
+    "@component-controls/viewport-plugin": "^1.25.0",
     "@storybook/react": "^6.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
-  },
-  "resolutions": {
-    "@theme-ui/core": "0.4.0-rc.1",
-    "@theme-ui/css": "0.4.0-rc.1",
-    "@theme-ui/mdx": "0.4.0-rc.1"
   },
   "repository": {
     "type": "git",
