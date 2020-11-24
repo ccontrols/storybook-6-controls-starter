@@ -9,16 +9,16 @@
     "test": "cc-jest -c .storybook"
   },
   "dependencies": {
-    "@component-controls/axe-plugin": "^1.41.0",
-    "@component-controls/blocks": "^1.41.0",
+    "@component-controls/axe-plugin": "^1.41.1",
+    "@component-controls/blocks": "^1.41.1",
     "@component-controls/core": "^1.41.0",
-    "@component-controls/jest-snapshots": "^1.41.0",
-    "@component-controls/store": "^1.41.0",
-    "@component-controls/storybook": "^1.41.0",
-    "@component-controls/viewport-plugin": "^1.41.0",
-    "@storybook/react": "^6.0.0",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "@component-controls/jest-snapshots": "^1.41.1",
+    "@component-controls/store": "^1.41.1",
+    "@component-controls/storybook": "^1.41.1",
+    "@component-controls/viewport-plugin": "^1.41.1",
+    "@storybook/react": "^6.1.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   },
   "repository": {
     "type": "git",
