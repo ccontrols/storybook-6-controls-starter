@@ -9,13 +9,13 @@
     "test": "cc-jest -c .storybook"
   },
   "dependencies": {
-    "@component-controls/axe-plugin": "^1.42.12",
-    "@component-controls/blocks": "^1.42.12",
-    "@component-controls/core": "^1.42.12",
-    "@component-controls/jest-snapshots": "^1.42.12",
-    "@component-controls/store": "^1.42.12",
-    "@component-controls/storybook": "^1.42.12",
-    "@component-controls/viewport-plugin": "^1.42.12",
+    "@component-controls/axe-plugin": "^1.43.0",
+    "@component-controls/blocks": "^1.43.0",
+    "@component-controls/core": "^1.43.0",
+    "@component-controls/jest-snapshots": "^1.43.0",
+    "@component-controls/store": "^1.43.0",
+    "@component-controls/storybook": "^1.43.0",
+    "@component-controls/viewport-plugin": "^1.43.0",
     "@storybook/react": "^6.1.4",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
